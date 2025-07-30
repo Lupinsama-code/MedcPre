@@ -1,6 +1,5 @@
 
-# 
-Repo : 
+# Repo : 
 https://github.com/Lupinsama-code/bai-tap-lon
 
 

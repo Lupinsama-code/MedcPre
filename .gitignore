@@ -46,3 +46,6 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
+
+# Ignore all files in the root directory
+gitignore/*
