@@ -21,12 +21,16 @@ Dự án này sử dụng các thuật toán Machine Learning để dự đoán 
 ```
 MedcPre/
 ├── data/                   # Dữ liệu thô và đã xử lý
-├── notebooks/              # Jupyter notebooks
+├── notebooks/              # Jupyter notebooks 
 ├── src/                    # Source code
 ├── models/                 # Trained models
+├── venv/                   # Py enviroment
 ├── requirements.txt        # Dependencies
-└── README.md              # Documentation
+└── README.md              # Documentation (this file)
 ```
+
+
+
 
 ## Các bước thực hiện
 1. Thu thập và khám phá dữ liệu
